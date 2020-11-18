@@ -92,7 +92,7 @@ class ProfileWidget extends StatelessWidget
                 child: Column(
                   children: <Widget>[
                     Text(
-                      'James Anderson',
+                      'Atharva Kulkarni',
                       style: TextStyle(
                         fontSize: 24,
                         color: Colors.black87,

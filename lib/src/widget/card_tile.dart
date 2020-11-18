@@ -2,7 +2,6 @@ import 'package:dashboard_flutter_web/src/commons/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 
-
 class CardTile extends StatelessWidget
 {
   final String cardTitle;
@@ -12,7 +11,7 @@ class CardTile extends StatelessWidget
   final String subText;
 
   const CardTile(
-      {Key key,
+  {   Key key,
       this.cardTitle,
       this.icon,
       this.iconBgColor,

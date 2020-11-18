@@ -81,12 +81,10 @@ class QuickContact extends StatelessWidget
                       hintText: 'Your name',
                       fillColor: Colors.white,
                       filled: true,
-                      contentPadding:
-                          EdgeInsets.fromLTRB(10.0, 10.0, 20.0, 15.0),
+                      contentPadding: EdgeInsets.fromLTRB(10.0, 10.0, 20.0, 15.0),
                       enabledBorder: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(5.0),
-                          borderSide:
-                              BorderSide(color: Colors.white, width: 0.0))),
+                          borderSide: BorderSide(color: Colors.white, width: 0.0))),
                 ),
               ),
               SizedBox(height: 20),

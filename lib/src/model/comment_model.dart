@@ -22,7 +22,7 @@ class Comment
 
 List<Comment> commentList = [
   Comment(
-    name: 'James Anderson',
+    name: 'Atharva Kulkarni',
     status: Status.Pending,
     image: 'assets/images/1.jpg',
     color: Colors.blue,
@@ -31,7 +31,7 @@ List<Comment> commentList = [
         'Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has beenorem Ipsum is simply dummy text of the printing and type setting ',
   ),
   Comment(
-    name: 'Michael Jorden',
+    name: 'Adwait Gondhalekar',
     status: Status.Approved,
     image: 'assets/images/2.jpg',
     date: 'May 19, 2019',
@@ -40,7 +40,7 @@ List<Comment> commentList = [
         'Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has beenorem Ipsum is simply dummy text of the printing and type setting ',
   ),
   Comment(
-    name: 'Johnathan Doeting',
+    name: 'Virat Kohli',
     status: Status.Rejected,
     color: Colors.red,
     image: 'assets/images/3.jpg',
@@ -49,7 +49,7 @@ List<Comment> commentList = [
         'Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has beenorem Ipsum is simply dummy text of the printing and type setting ',
   ),
   Comment(
-    name: 'Joe Doe',
+    name: 'Sachin Tendulkar',
     status: Status.Pending,
     image: 'assets/images/4.jpg',
     color: Colors.blue,

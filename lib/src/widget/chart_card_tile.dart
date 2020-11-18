@@ -1,7 +1,6 @@
 import 'package:dashboard_flutter_web/src/widget/responsive_widget.dart';
 import 'package:flutter/material.dart';
 
-
 class ChartCardTile extends StatelessWidget
 {
   final Color cardColor;

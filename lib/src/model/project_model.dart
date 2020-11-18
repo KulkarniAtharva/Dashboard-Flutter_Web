@@ -31,14 +31,14 @@ class Project
 List<Project> projectItems =
 [
   Project(
-      assigned: 'Sunil Joshi',
+      assigned: 'Atharva Kulkarni',
       name: 'Elite Admin',
       priority: Priority.Low,
       position: 'Web Designer',
       budget: 3.9,
       color: Colors.yellow),
   Project(
-    assigned: 'Andrew Elena',
+    assigned: 'Adwait Gondhalekar',
     name: 'Real Homes',
     priority: Priority.Medium,
     position: 'Project Manager',
@@ -46,7 +46,7 @@ List<Project> projectItems =
     color: Colors.lightBlue,
   ),
   Project(
-    assigned: 'Bhavesh patel',
+    assigned: 'Nidhi Abhyankar',
     name: 'Flutter Web',
     priority: Priority.High,
     position: 'Developer',
@@ -54,7 +54,7 @@ List<Project> projectItems =
     color: Colors.red,
   ),
   Project(
-    assigned: 'Nirav Joshi',
+    assigned: 'Radha Mujumdar',
     name: 'Elite Admin',
     priority: Priority.Low,
     position: 'Frontend Eng',
@@ -62,7 +62,7 @@ List<Project> projectItems =
     color: Colors.yellow,
   ),
   Project(
-    assigned: 'Joe Doe',
+    assigned: 'Shreya Kedia',
     name: 'Helping Hands',
     priority: Priority.High,
     position: 'Content Writer',

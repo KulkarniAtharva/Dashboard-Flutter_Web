@@ -76,7 +76,7 @@ class _SideBarMenuState extends State<SideBarMenu> with SingleTickerProviderStat
                             width: _animation.value >= 250 ? 20 : 0,
                           ),
                           (_animation.value >= 250)
-                              ? Text('Yasin ilhan',
+                              ? Text('Atharva Kulkarni',
                                   style: menuListTileDefaultText)
                               : Container(),
                         ],
@@ -87,7 +87,7 @@ class _SideBarMenuState extends State<SideBarMenu> with SingleTickerProviderStat
                       Spacer(),
                       (_animation.value >= 250)
                           ? Text(
-                              'Yasin ilhan',
+                              'Atharva Kulkarni',
                               style: TextStyle(
                                 fontSize: 16,
                                 color: Colors.white,
@@ -97,7 +97,7 @@ class _SideBarMenuState extends State<SideBarMenu> with SingleTickerProviderStat
                           : Container(),
                       (_animation.value >= 250)
                           ? Text(
-                              'yasinilhan61@gmail.com',
+                              'atharvakulkarni2204@gmail.com',
                               style: TextStyle(
                                 fontSize: 13,
                                 color: Colors.white,
