@@ -18,7 +18,8 @@ class Project
   Color color;
 
   Project(
-  {   this.assigned,
+  {
+      this.assigned,
       this.name,
       this.priority,
       this.budget,

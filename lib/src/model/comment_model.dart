@@ -40,7 +40,7 @@ List<Comment> commentList = [
         'Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has beenorem Ipsum is simply dummy text of the printing and type setting ',
   ),
   Comment(
-    name: 'Virat Kohli',
+    name: 'Bill Gates',
     status: Status.Rejected,
     color: Colors.red,
     image: 'assets/images/3.jpg',
@@ -49,7 +49,7 @@ List<Comment> commentList = [
         'Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has beenorem Ipsum is simply dummy text of the printing and type setting ',
   ),
   Comment(
-    name: 'Sachin Tendulkar',
+    name: 'Mark Zuckerberg',
     status: Status.Pending,
     image: 'assets/images/4.jpg',
     color: Colors.blue,

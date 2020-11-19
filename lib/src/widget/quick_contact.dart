@@ -2,7 +2,6 @@ import 'package:dashboard_flutter_web/src/commons/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
-
 class QuickContact extends StatelessWidget
 {
   const QuickContact(

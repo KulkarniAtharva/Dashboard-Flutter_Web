@@ -2,7 +2,6 @@ import 'package:dashboard_flutter_web/src/commons/theme.dart';
 import 'package:dashboard_flutter_web/src/model/project_model.dart';
 import 'package:flutter/material.dart';
 
-
 class ProjectWidget extends StatelessWidget
 {
   const ProjectWidget(

@@ -30,8 +30,7 @@ class ChartCardTile extends StatelessWidget
       child: Stack(
         children: <Widget>[
           Container(
-            padding:
-                _media.width >= 1280 ? EdgeInsets.all(15) : EdgeInsets.all(5),
+            padding: _media.width >= 1280 ? EdgeInsets.all(15) : EdgeInsets.all(5),
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(4),
               color: cardColor,
@@ -66,8 +65,7 @@ class ChartCardTile extends StatelessWidget
                         ),
                         SizedBox(height: 5),
                         Text(subText,
-                            style:
-                                TextStyle(fontSize: 12, color: Colors.white)),
+                            style: TextStyle(fontSize: 12, color: Colors.white)),
                       ],
                     )
                   ],
