@@ -47,7 +47,7 @@ List<Project> projectItems =
     color: Colors.lightBlue,
   ),
   Project(
-    assigned: 'Nidhi Abhyankar',
+    assigned: 'Bill Gates',
     name: 'Flutter Web',
     priority: Priority.High,
     position: 'Developer',
@@ -55,7 +55,7 @@ List<Project> projectItems =
     color: Colors.red,
   ),
   Project(
-    assigned: 'Radha Mujumdar',
+    assigned: 'Elon Musk',
     name: 'Elite Admin',
     priority: Priority.Low,
     position: 'Frontend Eng',
@@ -63,7 +63,7 @@ List<Project> projectItems =
     color: Colors.yellow,
   ),
   Project(
-    assigned: 'Shreya Kedia',
+    assigned: 'Mark Zuckerberg',
     name: 'Helping Hands',
     priority: Priority.High,
     position: 'Content Writer',

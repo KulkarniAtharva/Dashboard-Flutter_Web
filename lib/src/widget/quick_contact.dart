@@ -8,8 +8,7 @@ class QuickContact extends StatelessWidget
   {
     Key key,
     @required Size media,
-  })  : _media = media,
-        super(key: key);
+  })  : _media = media, super(key: key);
 
   final Size _media;
 
